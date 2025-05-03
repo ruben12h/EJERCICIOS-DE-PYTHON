@@ -1,3 +1,4 @@
+
 dolares = float(input("introduce la cantidad en dolares:"))
 tasa_conversion = 4000 # ejemplo de tasa de convesion 
 print("cantidad en peso colombiano:",dolares * tasa_conversion)
